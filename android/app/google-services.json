@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "454284317357",
+    "firebase_url": "https://aiovu-prod.firebaseio.com",
+    "project_id": "aiovu-prod",
+    "storage_bucket": "aiovu-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454284317357:android:23ed52172416a03bc9ac24",
+        "android_client_info": {
+          "package_name": "com.allinonecyberteam.aioc.university"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454284317357-lvd0nbn795hkjjbu00f6f68qlv2p4i4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allinonecyberteam.aioc.university",
+            "certificate_hash": "ddab768f85883156275efbf4872b26c89445afee"
+          }
+        },
+        {
+          "client_id": "454284317357-je8q93sf2otf8en787im6nj78illo922.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU8W7smzKUQV-kH4YD1kQ_4-VvvjzJdvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454284317357-je8q93sf2otf8en787im6nj78illo922.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454284317357:android:56a05e0945ee0b27c9ac24",
+        "android_client_info": {
+          "package_name": "com.allinonecyberteam.aiovu_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454284317357-fa8c3akh7123m2eilkd80jmbmps201f4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allinonecyberteam.aiovu_app",
+            "certificate_hash": "d0743d4fbbe242507d1777479f600a018f7b5402"
+          }
+        },
+        {
+          "client_id": "454284317357-66bphq1lj79bgmvit7jpnhbbd30j9m85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allinonecyberteam.aiovu_app",
+            "certificate_hash": "0d012bfd67ebe490ba1341378fb83894f627f6f7"
+          }
+        },
+        {
+          "client_id": "454284317357-6f1gcq5pjt05467vm5f7ghu7h8l1259t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allinonecyberteam.aiovu_app",
+            "certificate_hash": "ddab768f85883156275efbf4872b26c89445afee"
+          }
+        },
+        {
+          "client_id": "454284317357-je8q93sf2otf8en787im6nj78illo922.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU8W7smzKUQV-kH4YD1kQ_4-VvvjzJdvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454284317357-je8q93sf2otf8en787im6nj78illo922.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
